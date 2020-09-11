@@ -1,4 +1,4 @@
-## Hi everyone! 👋 Nice to see you in my GitHub profile
+## Hi everyone! 👋 Nice to see you on my GitHub profile
 
 I'm Mickaël BARON, I do research 🕵, create tools 🛠 and write tutorials 📄. I work at the National Engineering School for Mechanics and Aerotechnics ([ISAE-ENSMA](https://www.ensma.fr)) as a Research Engineer and I'm a member of the Data and Model Engineering team of the Laboratory of Computer Science and Automatic Control for Systems ([LIAS](https://www.lias-lab.fr)). 
 
@@ -10,7 +10,7 @@ I'm the lead of all the software research developments conducted at [LIAS](https
 
 * Vue.js: intégration de la biliothèque dans un site web existant (🇫🇷)
 * Vue.js: manipulation de composants pour créer une application SPA (🇫🇷)
-* Vue.js: introduction des principaux concepts (🇫🇷). Les slides sont écrits avec Reveal.js
+* Vue.js: introduction des principaux concepts (🇫🇷). Les slides sont écrits avec Reveal.js, une première 🧐
 
 ### 📫 How to reach me
 
