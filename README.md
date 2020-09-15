@@ -4,7 +4,7 @@ I'm Mickaël BARON, I do research 🕵, create tools 🛠 and write tutorials �
 
 I got my PhD degree in computer science at Poitiers University for a ... long time. Previously, I worked at INRIA Rocquencourt into the MERLIN team for designing human computer interaction methods and tools. I worked also in high-tech companies on designing and validating software.
 
-I'm the lead of all the software research developments conducted at [LIAS](https://www.lias-lab.fr) ... in two words **Mister Software** 👨🏼‍💻. My research topics include: *Semantic Data Modeling*, *Ontology-based Database Design* and *Query Relaxation Strategies*. In parallel of my professional activities, I'm the team leader of the Java zones (Java, Java Web, Eclipse, Netbeans, Spring and Android) of [Developpez.com](https://www.developpez.com), the largest French-speaking community of IT professionals.
+I'm the lead of the software research developments conducted at [LIAS](https://www.lias-lab.fr) ... in two words **Mister Software** 👨🏼‍💻. My research topics include: *Semantic Data Modeling*, *Ontology-based Database Design* and *Query Relaxation Strategies*. In parallel of my professional activities, I'm the team leader of the Java zones (Java, Java Web, Eclipse, Netbeans, Spring and Android) of [Developpez.com](https://www.developpez.com), the largest French-speaking community of IT professionals.
 
 ### 🔭 Tutorials in progress
 
