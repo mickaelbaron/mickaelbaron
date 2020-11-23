@@ -8,9 +8,11 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 
 ### 🔭 Tutorials in progress
 
-* Vue.js: intégration de la biliothèque dans un site web existant (🇫🇷)
-* Vue.js: manipulation de composants (création, instanciation et communication) pour créer une application SPA (🇫🇷)
-* Vue.js: introduction des principaux concepts (🇫🇷). Les slides sont écrits avec Reveal.js, une première 🧐
+* ~~Vue.js: intégration de la biliothèque dans un site web existant (🇫🇷)~~ Done, will be published soon
+* ~~Vue.js: manipulation de composants (création, instanciation et communication) pour créer une application SPA (🇫🇷)~~ Done, will be published soon
+* ~~Développement web avec des composants (🇫🇷). Les slides sont écrits avec Reveal.js, une première 🧐~~ Done, will be published soon
+* ~~Développement web avec Vue.js (🇫🇷).~~ Done, will be published soon
+
 
 ### 📫 How to reach me
 
