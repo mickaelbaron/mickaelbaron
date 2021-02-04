@@ -8,8 +8,9 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 
 ### 🔭 Tutorials in progress
 
-* Développer des applications mobiles avec Vue.js (introduction PWA VS Application natives, NativeScript) (support de cours) (🇫🇷)
-* Vue.js: développer des applications mobiles (tutoriel) (🇫🇷)
+* Développer des applications mobiles avec Vue.js (introduction Web VS PWA VS Hybride VS Natives) (support de cours) (🇫🇷)
+* Vue.js: développer des applications mobiles avec NativeScript (tutoriel) (🇫🇷)
+* Apprendre à lire et écrire des API Rest (tutoriel) (🇫🇷)
 
 ### 📫 How to reach me
 
