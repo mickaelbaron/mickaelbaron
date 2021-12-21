@@ -8,10 +8,7 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 
 ### 🔭 Tutorials in progress
 
-* ~~Développer des applications mobiles avec Vue.js (introduction Web VS PWA VS Hybride VS Natives) (support de cours) (🇫🇷)~~ Published
-* ~~Vue.js: développer des applications mobiles avec NativeScript (tutoriel) (🇫🇷)~~ Published
-* ~~Vue.js : développer des applications mobiles via une PWA (tutoriel) (🇫🇷)~~ Published
-* SOA - Microservices : Mise en oeuvre avec Kubernetes (support de cours) (🇫🇷)
+~~* SOA - Microservices : Mise en oeuvre avec Kubernetes (support de cours) (🇫🇷)~~ Review process
 * SOA - Microservices : Microservices avec Kubernetes (tutoriel) (🇫🇷) 
 * Apprendre à lire et écrire des API Rest (tutoriel) (🇫🇷)
 
