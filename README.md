@@ -4,13 +4,14 @@ I'm Mickaël BARON, I do research 🕵, create tools 🛠 and write tutorials �
 
 I got my PhD degree in computer science at Poitiers University for a ... long time. Previously, I worked at INRIA Rocquencourt into the MERLIN team for designing human computer interaction methods and tools. I worked also in high-tech companies on designing and validating software.
 
-I'm the lead of the software research developments conducted at [LIAS](https://www.lias-lab.fr) ... in two words **Mister Software** 👨🏼‍💻. My research topics include: *Semantic Data Modeling*, *Ontology-based Database Design* and *Query Relaxation Strategies*. In parallel of my professional activities, I'm the team leader of the Java zones (Java, Java Web, Eclipse, Netbeans, Spring and Android) of [Developpez.com](https://www.developpez.com), the largest French-speaking community of IT professionals.
+I'm the lead of the software research developments conducted at [LIAS](https://www.lias-lab.fr) ... in two words **Mister Software** 👨🏼‍💻. My research topics include: *Semantic Data Modeling*, *Ontology-based Database Design* and *Query Relaxation Strategies*. From 2011 to 2021, I was the team leader of the Java zones (Java, Java Web, Eclipse, Netbeans, Spring and Android) of [Developpez.com](https://www.developpez.com), the largest French-speaking community of IT professionals.
 
 ### 🔭 Tutorials in progress
 
 * ~~SOA - Microservices : Mise en oeuvre avec Kubernetes (support de cours) (🇫🇷)~~ Review process
-* SOA - Microservices : Microservices avec Kubernetes - les bases de K8s (tutoriel) (🇫🇷) 
-* SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷) 
+* ~~SOA - Microservices : Microservices avec Kubernetes - les bases de K8s (tutoriel) (🇫🇷)~~ Review process
+* SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS...) (cours) (🇫🇷)
+* SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷)
 * Apprendre à lire et écrire des API Rest (tutoriel) (🇫🇷)
 
 ### 📫 How to reach me
