@@ -8,8 +8,6 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 
 ### 🔭 Tutorials in progress
 
-* ~~SOA - Microservices : Mise en oeuvre avec Kubernetes (support de cours) (🇫🇷)~~ Review process
-* ~~SOA - Microservices : Microservices avec Kubernetes - les bases de K8s (tutoriel) (🇫🇷)~~ Review process
 * SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS...) (cours) (🇫🇷)
 * SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷)
 * Apprendre à lire et écrire des API Rest (tutoriel) (🇫🇷)
