@@ -11,6 +11,7 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 * SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS...) (cours) (🇫🇷)
 * SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷)
 * Apprendre à lire et écrire des API Rest (tutoriel) (🇫🇷)
+* Add the english support to my blog 🇬🇧 or 🇫🇷
 
 ### 📫 How to reach me
 
