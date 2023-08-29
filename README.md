@@ -21,4 +21,6 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 * LinkedIN: [in/mickaelbaron](https://www.linkedin.com/in/mickaelbaron)
 * Email: [baron.mickael@gmail.com](mailto:baron.mickael@gmail.com)
 
+You can also support my contributions by making donations on the Buy Me A Coffee platform, click 👇
+
 <a href="https://www.buymeacoffee.com/mickaelbaron" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
