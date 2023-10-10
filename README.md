@@ -9,6 +9,7 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 ### 🔭 Tutorials in progress
 
 * Apprendre à lire et écrire une API Rest à partir des données : Application à PostgREST (tutoriel) (🇫🇷)
+* SOA - Streaming : Technologies basées sur gRPC (cours) (🇫🇷)
 * SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS...) (cours) (🇫🇷)
 * SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷)
 
