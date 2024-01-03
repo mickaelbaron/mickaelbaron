@@ -6,11 +6,12 @@ I got my PhD degree in computer science at Poitiers University for a ... long ti
 
 I'm the lead of the software research developments conducted at [LIAS](https://www.lias-lab.fr) ... in two words **Mister Software** 👨🏼‍💻. My research topics include: *Semantic Data Modeling*, *Ontology-based Database Design* and *Query Relaxation Strategies*. From 2011 to 2021, I was the team leader of the Java zones (Java, Java Web, Eclipse, Netbeans, Spring and Android) of [Developpez.com](https://www.developpez.com), the largest French-speaking community of IT professionals.
 
-### 🔭 Tutorials in progress
+### 🔭 Tutorials and courses in progress (the first ones are my priority)
 
-* Apprendre à lire et écrire une API Rest à partir des données : Application à PostgREST (tutoriel) (🇫🇷)
+* SOA - Identification : Résoudre la question de la gestion de l'identité (OAuth2, OpenID Connect, SAML, CAS, Shibboleth, etc.) (🇫🇷)
 * SOA - Streaming : Technologies basées sur gRPC (cours) (🇫🇷)
-* SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS...) (cours) (🇫🇷)
+* SOA - Streaming : Technologies basées sur Publish-Subscribe (AMQP, MQTT, DDS, etc.) (cours) (🇫🇷)
+* Apprendre à lire et écrire une API Rest à partir des données : Application à PostgREST (tutoriel) (🇫🇷)
 * SOA - Microservices : Microservices avec Kubernetes - développement et déploiement (tutoriel) (🇫🇷)
 
 ### 📫 How to reach me
