@@ -17,7 +17,7 @@ I'm the lead of the software research developments conducted at [LIAS](https://w
 ### 📫 How to reach me
 
 * Blog: [mickael-baron.fr](https://mickael-baron.fr)
-* Twitter: [@mickaelbaron](https://www.twitter.com/mickaelbaron)
+* Pro webpage: [www.lias-lab.fr/members/mickaelbaron](https://www.lias-lab.fr/members/mickaelbaron)
 * Github: [mickaelbaron](https://github.com/mickaelbaron)
 * LinkedIN: [in/mickaelbaron](https://www.linkedin.com/in/mickaelbaron)
 * Email: [baron.mickael@gmail.com](mailto:baron.mickael@gmail.com)
